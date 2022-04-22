@@ -1,4 +1,9 @@
-Build status: [![Build Status](https://travis-ci.org/bitcoinj/bitcoinj.png?branch=master)](https://travis-ci.org/bitcoinj/bitcoinj)
+### Aurumcoinj 
+This is bitncoinj fork to server aurumcoin Android wallet. 
+After last changes to the blockchan - 2 blocks are required to change the difficult, this wallet can not server as normal application.
+The community of Aurumcoin needs some help from dev, so please push your patches and recommendations to this repo for the biblio. 
+Best Regards 
+Rossen
 
 ### Welcome to bitcoinj
 
